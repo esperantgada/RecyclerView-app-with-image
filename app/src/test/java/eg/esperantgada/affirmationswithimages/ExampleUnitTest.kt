@@ -1,4 +1,4 @@
-package com.example.affirmationswithimages
+package eg.esperantgada.affirmationswithimages
 
 import org.junit.Test
 

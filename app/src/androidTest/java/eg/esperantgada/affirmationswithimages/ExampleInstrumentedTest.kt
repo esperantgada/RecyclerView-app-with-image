@@ -1,4 +1,4 @@
-package com.example.affirmationswithimages
+package eg.esperantgada.affirmationswithimages
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,12 +1,13 @@
-package com.example.affirmationswithimages.data
+package eg.esperantgada.affirmationswithimages.data
 
 import com.example.affirmationswithimages.R
-import com.example.affirmationswithimages.model.Affirmation
+import eg.esperantgada.affirmationswithimages.model.Affirmation
 
 class Datasource {
 
-    fun loadAffirmations() : List<Affirmation>{
+    //Method that returns a list of type Affirmation
 
+    fun loadAffirmations() : List<Affirmation>{
 
         return listOf(
             Affirmation(R.string.affirmation1, R.drawable.image1),
